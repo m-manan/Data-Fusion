@@ -1,0 +1,6 @@
+Precision: 0.863481228668942
+Recall: 0.863481228668942
+F1: 0.863481228668942
+Error Rate: 0.13651877133105805
+Mean Absolute Distance: 2.93068416E8
+Mean Normalized Absolute Distance: 5.420717457127466E-7
